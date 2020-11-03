@@ -1,5 +1,7 @@
 package com.itheima.pojo;
 
+import java.util.Date;
+
 /**
  * @Description:
  * @Program: spring
@@ -11,4 +13,5 @@ package com.itheima.pojo;
 public class Man {
     private String name;
     private String sex;
+    private Date birthday;
 }
